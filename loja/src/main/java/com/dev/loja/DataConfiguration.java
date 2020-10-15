@@ -1,4 +1,4 @@
-package com.dev.loja;
+/* package com.dev.loja;
 
 import javax.sql.DataSource;
 
@@ -35,3 +35,4 @@ public class DataConfiguration {
 
     }
 }
+ */
